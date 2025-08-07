@@ -1,6 +1,9 @@
-Privacy Policy
+This browser extension does not collect, store, or transmit any personal data. All data used by the extension is stored locally within the user's browser.
 
-This browser extension does not collect, store, or transmit any personal information.
-All data used by the extension is stored locally in the browser and is not shared with external services.
+The extension operates entirely on the client side and does not communicate with any external servers or APIs. It is used solely for monitoring drawdown and balance thresholds on the trading platform of TD365.
+
+The extension does not require login, account creation, or any personal information input. It works only after the user logs in to their own TD365 trading account.
+
+No data is shared with the developer or third parties.
 
 If you have any questions, contact: pg693392119@gmail.com
